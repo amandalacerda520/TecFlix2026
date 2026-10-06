@@ -4,8 +4,8 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-.italianno-regular {
-  font-family: "Italianno", cursive;
+.montserrat-<uniquifier>{
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
