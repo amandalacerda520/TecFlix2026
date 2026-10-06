@@ -4,6 +4,7 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
+.
 .montserrat-<uniquifier> {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
