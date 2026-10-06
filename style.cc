@@ -4,10 +4,8 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-.
-.montserrat-<uniquifier> {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+.aclonica-regular {
+  font-family: "Aclonica", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
