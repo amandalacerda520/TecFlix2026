@@ -4,9 +4,9 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-.montserrat-<uniquifier>{
+.montserrat-<uniquifier> {
   font-family: "Montserrat", sans-serif;
-  font-weight: 400;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
   font-style: normal;
 }
-
